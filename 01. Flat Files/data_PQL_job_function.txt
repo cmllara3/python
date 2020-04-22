@@ -1,0 +1,33 @@
+job_function	job_function_new
+IT-Architect	Architect
+Business Analyst	Business Analyst
+Business analyst	Business Analyst
+Business - Analyst	Business Analyst
+Analytics Executive (CAO, Head of Analytics)	Business Executive
+IT Executive (Chief Data Officer, CIO, CTO)	Business Executive
+Business Executive (CEO, CMO)	Business Executive
+Head of Analytics	Business Executive
+Consultant	Consultant
+biz_management	Consultant
+IT - Data Architect	Data Architect
+IT: Data architect	Data Architect
+Data Scientist	Data Scientist
+IT-Data Scientist	Data Scientist
+IT - Other	IT
+IT	IT
+Business - Management	Management
+IT - Management	Management
+IT: Management	Management
+IT - Project Management	Management
+Software Dev - Management	Management
+Management	Management
+Other	Other
+Partner-Technology	Other
+Researcher	Research
+Research	Research
+Academic-Researcher	Research
+Academic-Student	Research
+Partner-Reseller	Reseller
+Software Dev - Developer	Software Dev
+Software Dev - Other	Software Dev
+Software Dev - Architect	Software Dev

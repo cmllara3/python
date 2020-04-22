@@ -1,0 +1,50 @@
+country	country_new
+Russia	RU
+United States	US
+Hungary	HU
+Malaysia	MY
+NZ	NZ
+India	IN
+Canada	CA
+Spain	ES
+Germany	DE
+Belgium	BE
+Brazil	BR
+United Kingdom	UK
+USA	US
+Mexico	MX
+Ireland	IE
+Netherlands	NL
+Ecuador	EC
+Saudi Arabia	SA
+Costa Rica	CR
+Portugal	PT
+Bermuda	BM
+GB	UK
+Australia	AU
+Switzerland	CH
+South Africa	ZA
+Denmark	DK
+Colombia	CO
+Chile	CL
+Russian Federation	RU
+Finland	FI
+France	FR
+US	US
+Schweiz	CH
+Israel	IL
+AE	AE
+Romania	RO
+Singapore	SG
+CO	CO
+Turkey	TR
+FI	FI
+Poland	PL
+Cyprus	CY
+Sweden	SE
+Taiwan	TW
+United States of America	US
+Perú	PE
+UK	UK
+Nigeria	NG
+Italy	IT

@@ -1,0 +1,30 @@
+industry	industry_new
+Agriculture/Mining	Agriculture
+Business Services	Business Services
+Computers/Electronics	Electronics
+Consulting	Consulting
+Consumer Services	Consumer
+consumer_products	Consumer
+Education	Educaction
+Energy/Utilities	Energy
+energy_supply	Energy
+Financial Services	Financial Services
+Government - Federal	Government
+Government - State/Local	Government
+Healthcare	Healthcare
+Healthcare/Pharmaceuticals/Biotech	Healthcare
+healthcare_pharma_biotech	Healthcare
+it_software	IT
+Manufacturing	Manufacturing
+Media/Entertainment	Media
+Non-Profit	Non-Profit
+Other	Other
+Real Estate/Construction	Construction
+Retail	Retail
+Retail/Wholesale	Retail
+Shipping/Transport/Logistics	Logistics
+Software	Software
+Software/Internet	Software
+Telecommunications	Telecommunications
+Transportation/Storage	Logistics
+Wholesale/Distribution	Logistics

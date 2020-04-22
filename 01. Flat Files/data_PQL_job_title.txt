@@ -1,0 +1,130 @@
+job_title	job_title_new
+Director of Artificial Intelligence	AI Manager
+Analytics Leader	Analytics
+BI & Campaign Analytics Manager	Analytics
+AgilebI Architect	Architect
+Data Architect	Architect
+IT Architect	Architect
+Value Added Service Architect	Architect
+Information Architect	Architect
+Enterprise Analytics Architect	Architect
+EpicCare Ambulatory IT Analyst	Architect
+Technical Architect	Architect
+Assistant Professor	Assistant Professor
+Assistant Provost	Assistant Professor
+Associate	Associate Professor
+Associate Professor	Associate Professor
+Director Business Intelligence	BI Manager
+Director of BI	BI Manager
+Manager, BI	BI Manager
+Head of Business Intelligence Design and Developmen	BI Manager
+CRM BI	BI Manager
+Big Data Project Manager	Big Data Manager
+Director - Big Data SOA and Capacity Planning	Big Data Manager
+Business Analyst	Business Analyst
+Business Analyst and Scrum Master	Business Analyst
+Business Intelligence Analyst	Business Analyst
+Business Intelligence Product Developer - Advanced Analytics	Business Analyst
+Data Analyst	Business Analyst
+AVP, New Product and Data Development	Business Analyst
+Consumer & Market Knowledge	Business Analyst
+Marketing Analytics	Business Analyst
+Marketing Business Analyst	Business Analyst
+Supervisory Analyst	Business Analyst
+Technical Analyst	Business Analyst
+Business Analyst Manager	Business Analyst Manager
+Director of Analytics	Business Analyst Manager
+Loss Prevention Analyst	Business Analyst Manager
+Director, Real World Data and Analytics	Business Analyst Manager
+GIS Senior Analyst	Business Analyst Senior
+Sr. Customer Data Analyst	Business Analyst Senior
+Head of Advanced Analytics Team	Business Analytics Manager
+Director Business Metrics Management	Business Analytics Manager
+Sr Mgr, Operations Research & Analysis	Business Analytics Manager
+Business Development Director	Business Development Manager
+Business Development Manager - Marketing Division	Business Development Manager
+Leiter Online	Business Development Manager
+online sales/marketing team	Business Development Manager
+Vice President and Head - Marketing Analytics	CDO
+Vice President, Analytics and Intelligence	CDO
+Chief Data Scientist	CDS
+CEO	CEO
+Executive Director	CEO
+President	CEO
+President & CEO	CEO
+Principal	CEO
+Special Asst. to the President	CEO Assistance
+Vice President - Longevity Trading	CFO
+CIO	CIO
+Chief Product Officer	CPO
+Chief Engineer	CTO
+CTO	CTO
+Data Scientist	Data Scientist
+Data Scientist Consultant	Data Scientist
+Data Scientist/ consultant	Data Scientist
+Data Arts & Sciences	Data Scientist
+Marketing Statistician and Software Engineer	Data Scientist
+Predictive Analytics Specialist	Data Scientist
+Data Scientist - Head of models	Data Scientist Manager
+Director - Data Analytics	Data Scientist Manager
+Director of Customer Data Science	Data Scientist Manager
+Director,Data Science	Data Scientist Manager
+Head of Data Science	Data Scientist Manager
+Manager, Sensory Science	Data Scientist Manager
+Sr. DBA	Database Admin
+Development Database Manager	Database Admin Manager
+Executive Director | EMEIA Financial Services Advisory - Risk	Financial Manager
+Manager - Corporate Financial Planning & Analysis	Financial Manager
+Senior IT Manager	IT Manager
+Director	Manager
+Director CSI	Manager
+Director, FCAT	Manager
+Manager	Manager
+Corporate Manager - Business Intelligence Strategy and Architecture	Manager
+Executive Director-Farsite	Manager
+Managing Director	Manager
+Diretoria de Marketing e Estratégia	Marketing Manager
+Operations Director	Operation Manager
+Quality Control Manager	Operation Manager
+Reliability Centered Maintenance Manager	Operation Manager
+Operational Excellence Specialist	Operation Specialist
+Engineer	Other
+Founder	Other
+Individual	Other
+Customer, Branch and Dealer Systems	Other
+Engineering Fellow	Other
+Federal Solutions Engineer	Other
+Fokusingenieur für Prozessführung	Other
+Not Sure	Other
+Managing Partner	Other
+Metabiomics	Other
+Mr.	Other
+owner	Other
+PCS/DE-BA	Other
+Principal Engineer	Other
+SAS Consultant	Other
+Software Engineer	Other
+Solutions Developer	Other
+R&D Manager	Other
+Sales Support Systems, FRA IC/X-C	Other
+SVP R&D	Other
+Director of Product Management	Product Management Manager
+Product Manager, Analytics & Insights	Project Manager
+Project Manager	Project Manager
+Director of Research	Research Manager
+Director, Institutional Research	Research Manager
+Risk Insights Analyst	Risk Analyst
+Director, Risk Assessment & Mitigation	Risk Manager
+Sr. IT Consultant	Senior Architect
+Senior Director, Strategic Technology	Senior Architect
+Sr. Technology Buyer	Senior Architect
+Sr.Predictive Modeler	Senior Data Scientist
+Senior Expert Fraud Management	Senior Fraud Management
+Academic	Student
+thesis worker	Student
+Optimization Research Engineer	Student
+PhD student	Student
+Post-Doctoral Fellow, Dept of Neurology	Student
+Researcher	Student
+Statistician	Student
+Studiengangsleiter	Student
